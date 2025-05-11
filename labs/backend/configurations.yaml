@@ -1,6 +1,6 @@
 
 openai:
-  key: "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"
+  key: ""
   model: "gpt-4o"
 
 admin:
