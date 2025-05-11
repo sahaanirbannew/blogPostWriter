@@ -1,0 +1,17 @@
+{
+    "E001": {   
+        "en": "jwt_token not found in headers.",
+        "bn": "jwt_token হেডারে পাওয়া যায়নি।",
+        "hi": "jwt_token हेडर में नहीं मिला।"
+    },
+    "E002": {   
+        "en": "refresh_token not found in headers.",
+        "bn": "refresh_token হেডারে পাওয়া যায়নি।",
+        "hi": "refresh_token हेडर में नहीं मिला।"
+    },
+    "E003": {   
+        "en": "user_id not found in headers.",
+        "bn": "user_id হেডারে পাওয়া যায়নি।",
+        "hi": "user_id हेडर में नहीं मिला।"
+    }
+}
