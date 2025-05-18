@@ -3,6 +3,8 @@ from openai import OpenAI
 import base64
 config = Config()
 
+print(config)
+
 class OpenAIOps:
     def __init__(self):
         self.openai_key = config.openai.api_key

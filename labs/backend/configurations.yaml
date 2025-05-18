@@ -1,7 +1,0 @@
-
-openai:
-  key: ""
-  model: "gpt-4o"
-
-admin:
-  language: "en"
